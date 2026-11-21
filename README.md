@@ -4,13 +4,24 @@
 LinkedIn: Vorbach DEUTSCHLAND AG
 
 .edu
+
+
 TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart 
 ﻿
 
 .movie
+
 -minority report 
 -paycheck
 -Truman show 
+
+.ideas
+
+- PayPal
+- twitter
+- brushless
+- testing by shell scripts/ python 
+
 
 .stuttgart
 
@@ -22,3 +33,6 @@ TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart
 
 - es grüßen:
   :: Daimler Audi Porsche Bosch IBM MICROSOFT HP et.al
+  
+- wenn dir als Kind in der Straßenbahn jmd sein Würstchen wienert und die Geschenke verspricht wenn man mitkommt.. ist es Stuttgart!
+
