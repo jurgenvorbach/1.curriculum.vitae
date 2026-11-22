@@ -1,0 +1,42 @@
+
+//-
+Persona ID verification
+I noticed that people have lots of practical issues with Persona ID verification, but there are not many comments (and no media articles as far as I can tell) about the data privacy and security of this service run by a San Francisco based company, Persona Identities Inc., on behalf of LinkedIn. I personally aborted the registration when the service wanted access to the NFC of my passport and became even more concerned when I noticed the amount of data they collect on their privacy policy page (which I apparently can't link, so you will have to search for it).
+
+/—
+eltaho
+•
+3y ago
+I've been active on linkedin for 19 years but there's no value for me to get verified. Of course, there's value for LinkedIn to collect our private information, yes. But why should I share it with them? Just to get a checkmark next to my profile? Why? So recruiters believe that I'm a real person? Bullshit
+
+//-
+YearRoundFool
+•
+2y ago
+u/vanderbeeken Idd... at least here in Belgium we ways to verify our identity (csam, itsme,...) that are local to the country and by extension Europe, which pretty much guarantees GDPR compliance. I have my doubts with Persona, a solution that is pretty much forced upon you if you want the verification badge. There seems to be no alternative. Now with Trump and Musk in the Whitehouse...not sure any US company can still be trusted with your privacy: after all, in the end they will have to answer to their government.
+
+Their "security assurance" page is hardly reassuring : certificates are not readily available but need to be requested per email, and the explanation of their technical and organizational measures is restricted to some sales and marketing images....
+
+When I look up Persona (withpersona.com) on the US Chamber of Commerce Data Privacy Framework List, I cannot find them. I do find LinkedIn, but considering it is Persona reading the NFC, I would want to find them too...
+
+Not sure what to make of this.
+
+/—
+mejorvalorados
+•
+3mo ago
+The NFC passport read actually makes it more secure not less, it's reading the chip to confirm the doc is genuine, which is harder to fake than a photo. The data collection scope is the fairer thing to question though. On the eID point you're right, honestly more providers should support eIDAS flows where they exist. Some newer ones like Didit do lean on eID/national schemes where available instead of collecting everything, so it's not like the tech forces the heavy data grab
+
+//-
+CodeBillGo
+•
+3y ago
+I have been on LinkedIn for many many years and everything is fine until I verified myself by work email which also went through well this afternoon within one minute.
+
+Then this evening when I tried to logon to LinkedIn, I was told the account was restricted. Tried following their unblocking procedure and was redirected to Persona which made me feel unsafe.
+
+I googled a bit and came across this post. Looks like it's not only me who got restricted by LinkedIn.
+
+So I went ahead and uploaded my driver's license to Persona and agreed to share it with LinkedIn. Got an email to my personal email account with a case number.
+
+I'll report back how it goes
