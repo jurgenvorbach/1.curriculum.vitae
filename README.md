@@ -9,9 +9,9 @@ TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart
 
  .uni
  - Institut Plasmaforschung :
- - — stets verschlossene Türen bei Suche nach Semesterarbeit 
+ - * stets verschlossene Türen bei Suche nach Semesterarbeit 
  - INÜ :
- - — nach Anmeldung am Prüfungsamt wurde zugesagte Arbeit anderweitig vergeben, kein Wechsel möglich 
+ - * nach Anmeldung am Prüfungsamt wurde zugesagte Arbeit anderweitig vergeben, kein Wechsel möglich 
    
  .asel
  
@@ -21,7 +21,10 @@ TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart
 
 .tes
 
-- 2010 HH G S PL MGR
+- 2014 TES
+- 2017 HH SEO/ Senior Engineer 
+- 2018/9 R-S
+- 2020 G S PL MGR Telefunken Radio.mil
 - 
 
 .motivation 
@@ -41,6 +44,7 @@ TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart
 
 .ideas
 
+- internet yellow pages
 - PayPal
 - twitter
 - brushless
@@ -55,7 +59,11 @@ TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart
 - Zuviel Ärger mit Scien/tology , nicht nur im Briefkasten
 
 - es grüßen:
-  :: Daimler Audi Porsche Bosch IBM MICROSOFT HP et.al
+- * Daimler
+- * Audi
+- * Porsche
+- * Bosch 
+- *  Adobe IBM MICROSOFT HP et.al
   
 - wenn dir als Kind in der Straßenbahn jmd sein Würstchen wienert und die Geschenke verspricht wenn man mitkommt.. ist es Stuttgart!
 
@@ -82,8 +90,10 @@ Die Einreichung einer Strafanzeige und/oder eines Strafantrags bei einer Staatsa
 
 ## .D
 
-===  http://geboren-in-schwaben.de/stuttgart  ===
+### not a Single Day Electrical Engineering 
 
-== http://leben-ohne-deutsche-staatsbürgerschaft.de ==
+## DEUTSCH DEMOKRATISCH STUTTGART 
 
-.
+- ===  http://geboren-in-schwaben.de/stuttgart  ===
+- == http://leben-ohne-deutsche-staatsbürgerschaft.de = 
+- .
