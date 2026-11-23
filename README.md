@@ -90,6 +90,21 @@ Die Einreichung einer Strafanzeige und/oder eines Strafantrags bei einer Staatsa
 
 ## .D
 
+### .Google
+### .Instagram 
+### .LinkedIn
+
+### .Stuttgart 
+unterhält mit Kinderwagen Fraktion 
+* oder : wenn die Firma informiert
+* * wer Kinderwagen sieht will schwanger werden, und Daimler hatte Sekretärin zu bedauern
+- _Bagwan Disco_
+- _FDP Parteitag_
+- _Mormonentreffen_
+- _Zeugen Jehovas_
+- 
+
+
 ### not a Single Day Electrical Engineering 
 
 ## DEUTSCH DEMOKRATISCH STUTTGART 
