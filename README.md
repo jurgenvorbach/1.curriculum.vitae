@@ -25,7 +25,7 @@ TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart
 - 2017 HH SEO/ Senior Engineer 
 - 2018/9 R-S
 - 2020 G S PL MGR Telefunken Radio.mil
-- 
+- 2023 /10 STrpz
 
 .motivation 
 - C++
@@ -34,6 +34,26 @@ TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart
 - Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, with a foreword by Grady Booch
 - The Boost C++ Libraries (also known simply as Boost) are a set of libraries for the C++ programming language that provides support for tasks and structures such as linear algebra, pseudorandom number generation, multithreading, image processing, regular expressions, and unit testing. It currently contains 170 individual libraries.
 - Qt (/ˈkjuːt/ pronounced "cute"[7][8]) is a cross-platform application development framework for creating graphical user interfaces as well as cross-platform applications that run on various software and hardware platforms such as Linux, Windows, macOS, Android or embedded systems
+
+.jobdescription
+- Director Consulting: Business Strategy, Innovation & New Technologies (f/m/div.)
+Ready to architect and build the business around tomorrow's technology for a global leader?
+
+At Bosch Management Consulting (BMC), we are strategic architects and partners of choice in business building. Our INS (Business & Digital Strategy) department specializes in shaping the viable, scalable businesses that will power Bosch's future, turning deep tech like Robotics, GenAI, Quantum Technology, Carbon Capture and the Hydrogen Economy, into powerful, sustainable businesses. We are looking for a visionary leader to join us—someone who can derive a winning strategy and help to drive its execution towards tangible impact. This is your opportunity to steer the journey from concept to commercial success, with a clear path to an executive role at Bosch!
+
+Your Mission:
+As a Project Leader in our team, you will be the strategic mind behind Bosch's most critical innovation ventures. You will lead high-stakes projects with direct C-level visibility, designing the commercial strategies, business models, but also driving their execution to turn groundbreaking technology into successful, scalable businesses.
+
+As a Project Leader, you drive high-impact strategy projects end-to-end, ensuring successful delivery and strong alignment with business goals.
+You act as a trusted advisor on innovation, emerging technologies, sustainability, and other forward-looking business areas.
+In close collaboration with senior management, you identify opportunities for growth, transformation, and continuous improvement.
+You perform in-depth analyses, translate insights into clear recommendations, and help turn strategy into measurable results.
+Last but not least, you mentor and guide junior consultants and foster a culture of collaboration, excellence, and continuous learning.
+
+Education: completed university studies in business studies or a comparable subject
+Experience and Knowledge: several years of experience at a top-tier strategy consultancy (clear must have for the position); proven track record as a project leader for larger projects
+Personality and Working Practice: you are characterized by your strong communication and interpersonal skills, with the ability to influence and engage stakeholders at all levels; your exceptional analytical and problem-solving abilities round off your profile
+Languages: business fluent in written and spoken German and English (both languages are equally required)
 
 
 .movie
