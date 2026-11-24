@@ -149,9 +149,21 @@ Die Einreichung einer Strafanzeige und/oder eines Strafantrags bei einer Staatsa
 ### Daimler
 
 bestimmt die Geschicke Geschichte Zukunft 
+* back to : 33,36,39-45
+
+### .GitHub 
+Message blocked
+Your message to support@github.com has been blocked. See technical details below for more information.
+LEARN MORE
+The response from the recipient enterprise administrator was:
+The user or domain that you are sending to (or from) has a policy that prohibited the mail that you sent. Please contact your domain administrator for further details. For more information, go to https://support.google.com/a/answer/172179
 
 ### .Google
+
+let others „don’t be evil“
+
 ### .Instagram 
+
 ### .LinkedIn
 
 ### .Stuttgart 
