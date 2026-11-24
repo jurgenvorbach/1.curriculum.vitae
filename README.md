@@ -74,6 +74,13 @@ Experience and Knowledge:knowledge of communication systems, including PHY/MAC l
 Personality and Working Practice: you work independently and in a motivated manner on complex issues, actively contribute to team processes, and impress with your commitment as well as a competent demeanor
 Languages: good English and German skills
 
+.fellows
+- Ramon S.
+* * I'm Ramon, radio system architect at Ericsson in Ottawa. My focus is on the development of next generation radio platforms (5G/6G/ORAN), while occasionally supporting radio release projects.
+* * Prior to that, I have been a technical coordinator and radio systems technical lead in 4G/5G main-remote radio design projects (2015-2021), radio HW system design engineer (2011-2015), functional system team leader for 2G/3G remote radio units (2007-2011), and functional systems prime for CDMA radio SW algorithms (2000-2002).
+Between 2002 and 2005, I was responsible for the area of sensor acquisition, specification and maintenance of large diesel engines at MTU Solutions (Rolls-Royce Power Systems) in Friedrichshafen, Germany.
+* * I received a Ph.D. degree in electrical engineering from the University of Calgary, Canada (1996-2000), M.Sc. and bachelor's degree (Dipl.-Ing.) in electrical engineering from the University of Stuttgart, Germany (1990-1996).
+
 .movie
 
 - minority report 
