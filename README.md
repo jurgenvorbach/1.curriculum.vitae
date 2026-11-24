@@ -147,7 +147,7 @@ bestimmt die Geschicke Geschichte Zukunft
 unterhält mit Kinderwagen Fraktion 
 * oder : wenn die Firma informiert
 * * wer Kinderwagen sieht will schwanger werden, und Daimler hatte Sekretärin zu bedauern
-- _Bagwan Disco_
+- _Bhagwan Disco_
 - _FDP Parteitag_
 - _Mormonentreffen_
 - _Zeugen Jehovas_
