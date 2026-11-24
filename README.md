@@ -69,8 +69,7 @@ You will actively contribute your research results to ongoing 3GPP studies and w
 As part of the publicly funded project "6G-Coverage", you will work closely with universities and partner companies and network with leading experts.
 Last but not least you will collaborate with your supervising professor, publish scientific articles, present your findings at international specialist conferences, and write your dissertation.
 
-* Your profile
-* Education: excellent Master’s degree in Electrical Engineering, Computer Science, Physics, Mathematics or a comparable field of study
+* _Education_: excellent Master’s degree in Electrical Engineering, Computer Science, Physics, Mathematics or a comparable field of study
 Experience and Knowledge:knowledge of communication systems, including PHY/MAC layer and 3GPP; knowledge of AI/ML; practical skills in simulation, structured software development, and prototype construction
 Personality and Working Practice: you work independently and in a motivated manner on complex issues, actively contribute to team processes, and impress with your commitment as well as a competent demeanor
 Languages: good English and German skills
@@ -128,6 +127,10 @@ Besonderer Hinweis für den elektronischen Rechtsverkehr mit Strafverfolgungsbeh
 Die Einreichung einer Strafanzeige und/oder eines Strafantrags bei einer Staatsanwaltschaft oder einem Amtsgericht ist nicht formgebunden und deshalb grundsätzlich auch per E-Mail möglich. Die Nutzung der oben genannten sicheren Übermittlungswege bietet jedoch den Vorteil, dass Ihre persönlichen Daten geschützt sind und die Einreichung rechtssicher dokumentiert wird. Sollten Sie sich dennoch für eine Übermittlung per E-Mail entscheiden, geben Sie bitte möglichst Ihren vollständigen Namen, Ihre Adresse und eine Telefonnummer für Rückfragen an.
 
 ## .D
+
+### Daimler
+
+bestimmt die Geschicke Geschichte Zukunft 
 
 ### .Google
 ### .Instagram 
