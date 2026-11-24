@@ -23,6 +23,17 @@ TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart
 
 
 .tes
+<small><small><small>
+- _* is your partner for complex electronic projects and offers an innovative portfolio of smart technology products and solutions in combination with professional electronic design & lifetime services such as_
+
+* Electronics System design
+* ASIC and FPGA design
+* Embedded Software design
+* Embedded Hardware design
+* RF/Microwave/Antenna design
+- _*’ technology is integrated and proven in millions of products in all industry segments and enables you to develop your projects on target supported by a large team of skilled engineers.
+- _* architects, develops and tests your products, supports your industrialization processes and accompanies you through the entire product lifetime._
+<small/><small/><small/>
 
 - 2014 TES
 - 2017 HH SEO/ Senior Engineer 
