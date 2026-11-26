@@ -169,6 +169,13 @@ Firmen Leasing Fahrzeug sollte es wohl nie werden.
 ### P/orsche
 goldene Absage im Rahmen. Glück gehabt, kein Fahrzeug von. 
 
+### .eyeem
+
+* offline 
+### .flickr
+
+* 1000 fotos limit 
+
 ### .GitHub 
 Message blocked
 Your message to support@github.com has been blocked. See technical details below for more information.
@@ -179,12 +186,19 @@ The user or domain that you are sending to (or from) has a policy that prohibite
 ### .Google
 
 for better life : let others „don’t be evil“
-
+* Android
+* eBay + PayPal Käuferschutz
+  
 ### .Instagram 
 
+* 7,99€ per month to watch their ads!
+* 4€ for WhatsApp
+*  not taxed in Germany
+
+  
 ### .LinkedIn
 
-requires passport upload. persona-ID 
+* requires passport upload. persona-ID 
 
 ### .Stuttgart 
 unterhält mit Kinderwagen Fraktion 
@@ -194,13 +208,12 @@ unterhält mit Kinderwagen Fraktion
 - _FDP Parteitag_
 - _Mormonentreffen_
 - _Zeugen Jehovas_
-- 
+
 
 ### .YouTube 
 
-* Android
-* ebay
-* yt-dlp 
+* yt-dlp
+* only 2 of 4 Timelapse videos available, 2 got deleted from (???)
 
 ### not a Single Day Electrical Engineering 
 
