@@ -184,6 +184,8 @@ for better life : let others „don’t be evil“
 
 ### .LinkedIn
 
+requires passport upload. persona-ID 
+
 ### .Stuttgart 
 unterhält mit Kinderwagen Fraktion 
 * oder : wenn die Firma informiert
