@@ -201,6 +201,9 @@ LEARN MORE
 The response from the recipient enterprise administrator was:
 The user or domain that you are sending to (or from) has a policy that prohibited the mail that you sent. Please contact your domain administrator for further details. For more information, go to https://support.google.com/a/answer/172179
 
+$:> git pull https://github.com/jurgenvorbach/1.curriculum.vitae 
+Unable to open repository '%s' '.' [-3] - could not find repository at '.'
+
 ### .Google
 
 for better life : let others „don’t be evil“
