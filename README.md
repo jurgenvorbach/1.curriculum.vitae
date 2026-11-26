@@ -178,7 +178,7 @@ The user or domain that you are sending to (or from) has a policy that prohibite
 
 ### .Google
 
-let others „don’t be evil“
+for better life : let others „don’t be evil“
 
 ### .Instagram 
 
@@ -194,6 +194,9 @@ unterhält mit Kinderwagen Fraktion
 - _Zeugen Jehovas_
 - 
 
+### .YouTube 
+
+* yt-dlp 
 
 ### not a Single Day Electrical Engineering 
 
