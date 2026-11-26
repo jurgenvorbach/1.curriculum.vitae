@@ -198,6 +198,7 @@ The user or domain that you are sending to (or from) has a policy that prohibite
 for better life : let others „don’t be evil“
 * Android
 * eBay + PayPal Käuferschutz
+* Gmail.com / https://mail.google.com
   
 ### .Instagram 
 
