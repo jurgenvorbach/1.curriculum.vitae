@@ -146,10 +146,18 @@ Die Einreichung einer Strafanzeige und/oder eines Strafantrags bei einer Staatsa
 
 ## .D
 
-### Daimler
+### NS/u
+Max sportif / sportmax
 
+### D/aimler
 bestimmt die Geschicke Geschichte Zukunft 
 * back to : 33,36,39-45
+
+### A/udi
+Firmen Leasing Fahrzeug sollte es wohl nie werden.
+
+### P/orsche
+goldene Absage im Rahmen. Glück gehabt, kein Fahrzeug von. 
 
 ### .GitHub 
 Message blocked
