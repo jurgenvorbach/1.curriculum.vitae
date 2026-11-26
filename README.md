@@ -1,5 +1,6 @@
 # 1.curriculum.vitae
-## . wie das leben einem spielt, Faust/Goethe
+## .
+### .. wie das leben einem spielt, Faust/Goethe
 
 LinkedIn: Vorbach DEUTSCHLAND AG
 
