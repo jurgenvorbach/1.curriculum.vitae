@@ -228,6 +228,12 @@ unterhält mit Kinderwagen Fraktion
 - _Mormonentreffen_
 - _Zeugen Jehovas_
 
+* EnBW
+* * Neuen intelligenten Stromzähler, mit Addierungsschwächen.
+  * 50% Plus an kWh/Jahr (trotz  zuvor <= 1400kWh/Jahr)
+  * ( nur 3 von 100 Appartements bekamen den alten Zähler ersetzt! Winner! )
+
+  * verbaut durch Drittfirma - EnBW fein raus
 
 ### .YouTube 
 
