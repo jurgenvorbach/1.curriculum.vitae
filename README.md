@@ -1,6 +1,6 @@
 # 1.curriculum.vitae
 ## .
-### .. wie das leben einem spielt, Faust/Goethe
+### .. wie das leben einem spielt, Faust/Goethe , Schillers Glocke
 
 LinkedIn: Vorbach DEUTSCHLAND AG
 
@@ -107,6 +107,13 @@ Between 2002 and 2005, I was responsible for the area of sensor acquisition, spe
 - * DLD -> SuSe -> Ubuntu, RaspberrOS, et.al.
   * macOS
 
+.music
+
+- Korg Wavestation
+- Korg Wavestate
+- Yamaha DX7
+
+  
 .movie
 
 - minority report 
