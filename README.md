@@ -1,5 +1,5 @@
 # 1.curriculum.vitae
-## .
+## . wie das leben einem spielt, Faust/Goethe
 
 LinkedIn: Vorbach DEUTSCHLAND AG
 
@@ -223,7 +223,9 @@ unterhält mit Kinderwagen Fraktion
 ### .YouTube 
 
 * yt-dlp
-* only 2 of 4 Timelapse videos available, 2 got deleted from (???)
+*  2 Timelapse videos offline (motobiking italien)
+*  Hamburg Landungsbrücken und Finkenwerder
+*  * et.al https://m.youtube.com/@notimetolose.timelapse9251
 
 ### not a Single Day Electrical Engineering 
 
