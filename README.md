@@ -198,6 +198,8 @@ unterhält mit Kinderwagen Fraktion
 
 ### .YouTube 
 
+* Android
+* ebay
 * yt-dlp 
 
 ### not a Single Day Electrical Engineering 
