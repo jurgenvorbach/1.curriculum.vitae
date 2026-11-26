@@ -130,6 +130,12 @@ Between 2002 and 2005, I was responsible for the area of sensor acquisition, spe
 - * Porsche
 - * Bosch 
 - *  Adobe IBM MICROSOFT HP et.al
+
+- Hausdurchsuchung bei Eltern bzgl. Software
+- * Microsoft Windows & Cinema 4D
+
+- online Virus auf elterlichem PC, Blockade, anzurufen unter …
+- * Polizei: „da machen wir nichts“
   
 - wenn dir als Kind in der Straßenbahn jmd sein Würstchen wienert und die Geschenke verspricht wenn man mitkommt.. ist es Stuttgart!
 
