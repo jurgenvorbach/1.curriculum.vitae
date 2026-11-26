@@ -24,22 +24,28 @@ TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart
 
 .tes
 <small><small><small>
-- _* is your partner for complex electronic projects and offers an innovative portfolio of smart technology products and solutions in combination with professional electronic design & lifetime services such as_
+- _* is your partner for complex electronic projects and offers an innovative portfolio of smart technology products and solutions in combination with professional electronic design & lifetime services such as
 
-* Electronics System design
-* ASIC and FPGA design
-* Embedded Software design
-* Embedded Hardware design
-* RF/Microwave/Antenna design
-- _*’ technology is integrated and proven in millions of products in all industry segments and enables you to develop your projects on target supported by a large team of skilled engineers.
-- _* architects, develops and tests your products, supports your industrialization processes and accompanies you through the entire product lifetime._
+- top100 Arbeitgeber 
+
+* * Electronics System design
+* * ASIC and FPGA design
+* * Embedded Software design
+* * Embedded Hardware design
+* * RF/Microwave/Antenna design
+
+
+   _*’ technology is integrated and proven in millions of products in all industry segments and enables you to develop your projects on target supported by a large team of skilled engineers.
+
+  
+   _* architects, develops and tests your products, supports your industrialization processes and accompanies you through the entire product lifetime._
 <small/><small/><small/>
 
-- 2014 TES
-- 2017 HH SEO/ Senior Engineer 
-- 2018/9 R-S
-- 2020 G S PL MGR Telefunken Radio.mil
-- 2023 /10 STrpz
+* 2014 TES
+* 2017 HH :: SEO/ Senior Engineer 
+* 2018/9 M R-S
+* 2020 U S :: PL MGR Telefunken Radio.mil
+* 2023 /10 STrpz
 
 .motivation 
 - C++
@@ -91,6 +97,10 @@ Languages: good English and German skills
 * * Prior to that, I have been a technical coordinator and radio systems technical lead in 4G/5G main-remote radio design projects (2015-2021), radio HW system design engineer (2011-2015), functional system team leader for 2G/3G remote radio units (2007-2011), and functional systems prime for CDMA radio SW algorithms (2000-2002).
 Between 2002 and 2005, I was responsible for the area of sensor acquisition, specification and maintenance of large diesel engines at MTU Solutions (Rolls-Royce Power Systems) in Friedrichshafen, Germany.
 * * I received a Ph.D. degree in electrical engineering from the University of Calgary, Canada (1996-2000), M.Sc. and bachelor's degree (Dipl.-Ing.) in electrical engineering from the University of Stuttgart, Germany (1990-1996).
+
+- Monier M.
+* * A dedicated and highly driven Senior Director with 20+ years of experience and a proven track record of strategic leadership, technological innovation, and cross-functional team management. Broad technical knowledge, strong business acumen, and demonstrated critical thinking and problem-solving competencies acquired over a career which encompassed key roles in several start-ups, founding a successful entrepreneurial venture, and senior positions in a leading Fortune 500 tech company. Extensive experience with chip and system architecture, software development, product strategy development and implementation, and successful management of several product designs from conception to completion.
+
 
 .movie
 
