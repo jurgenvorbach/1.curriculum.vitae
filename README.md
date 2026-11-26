@@ -101,6 +101,10 @@ Between 2002 and 2005, I was responsible for the area of sensor acquisition, spe
 - Monier M.
 * * A dedicated and highly driven Senior Director with 20+ years of experience and a proven track record of strategic leadership, technological innovation, and cross-functional team management. Broad technical knowledge, strong business acumen, and demonstrated critical thinking and problem-solving competencies acquired over a career which encompassed key roles in several start-ups, founding a successful entrepreneurial venture, and senior positions in a leading Fortune 500 tech company. Extensive experience with chip and system architecture, software development, product strategy development and implementation, and successful management of several product designs from conception to completion.
 
+.linux
+- for life
+- * DLD -> SuSe -> Ubuntu, RaspberrOS, et.al.
+  * macOS
 
 .movie
 
