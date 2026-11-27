@@ -211,6 +211,15 @@ Unable to open repository '%s' '.' [-3] - could not find repository at '.'
 
 for better life : let others „don’t be evil“
 * Android & googlePlay-free , MTK—Chip
+* 
+* * LineageOS
+  * * Free and open-source Android-based operating system for smartphones and tablets, designed to enable deep customization, enhanced privacy controls, regular security updates, and broad device compatibility without default proprietary Google services.
+  * /e/OS/
+  * * /e/ is a fork of LineageOS that aims to be completely free of everything Google. Not only that, but there are a number of goals the developer has in mind for /e/ that more people feel are vital to a mobile operating system.
+  * GrapheneOS
+  * * GrapheneOS is a privacy and security focused mobile OS with Android app compatibility developed as a non-profit open source project. It's focused on the research and development of privacy and security technology including substantial improvements to sandboxing, exploit...
+
+
 * eBay + PayPal Käuferschutz
 * Gmail.com / https://mail.google.com
   
