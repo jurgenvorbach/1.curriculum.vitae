@@ -42,11 +42,11 @@ TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart
    _* architects, develops and tests your products, supports your industrialization processes and accompanies you through the entire product lifetime._
 <small/><small/><small/>
 
-* 2014 TES
-* 2017 HH :: SEO/ Senior Engineer 
-* 2018/9 M R-S
-* 2020 U S :: PL MGR Telefunken Radio.mil
-* 2023 /10 STrpz
+* 2014/.. TES
+* 2016/17 HH :: SEO/ Senior Engineer 
+* 2018/19 M R-S GUI Radio.mil
+* 2020/21 U S :: PL MGR Telefunken Radio.mil
+* 2023/.. /10 STrpz
 
 .motivation 
 - C++
