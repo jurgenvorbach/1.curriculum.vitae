@@ -211,6 +211,7 @@ Unable to open repository '%s' '.' [-3] - could not find repository at '.'
 
 for better life : let others „don’t be evil“
 * Android & googlePlay-free , MTK—Chip
+* [Alternative.to](https://alternativeto.net/software/android/?license=free)
 * * Nura
   * * Nura (formerly postmarketOS) extends the free and open source operating system Alpine Linux to run on smartphones and other mobile devices. Alpine is a security-oriented, light-weight Linux distribution based on musl libc and BusyBox.
 * * CalyxOS
