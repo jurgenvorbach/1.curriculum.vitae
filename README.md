@@ -2,9 +2,9 @@
 ## .
 ### .. wie das leben einem spielt, Faust/Goethe , Schillers Glocke
 
-LinkedIn: Vorbach DEUTSCHLAND AG
+(_locked-out_) LinkedIn: Vorbach DEUTSCHLAND AG
 
-### .edu
+ .edu
 
 TIS/+ Thales Nokia-Lucent-AlcatelSEL Uni Stuttgart 
 
@@ -190,6 +190,11 @@ Firmen-Leasingwagen sollte es wohl nie werden.
 ### P/orsche
 goldene Absage im Rahmen. Glück gehabt, kein Fahrzeug von. 
 
+### .apple
+
+- iOS Update 27.2.1
+- * es fehlen Textpassagen in draft Mails plötzlich nach Update
+  * 
 ### .eyeem
 
 * offline 
