@@ -111,6 +111,7 @@ Between 2002 and 2005, I was responsible for the area of sensor acquisition, spe
 
 - Korg Wavestation
 - Korg Wavestate
+- Korg M1
 - Yamaha DX7
 
   
