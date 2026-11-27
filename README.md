@@ -179,11 +179,13 @@ Die Einreichung einer Strafanzeige und/oder eines Strafantrags bei einer Staatsa
 Max sportif / sportmax
 
 ### D/aimler
+Für 2 Perioden schwanger mit dem Gedanken einer Bewerbung. Glück gehabt, kein Firmenwagen fahren zu müssen! 
+
 bestimmt die Geschicke Geschichte Zukunft 
-* back to : 33,36,39-45
+* back to : 33,36,39-45 / Automobileforum.Deutschland
 
 ### A/udi
-Firmen Leasing Fahrzeug sollte es wohl nie werden.
+Firmen-Leasingwagen sollte es wohl nie werden.
 
 ### P/orsche
 goldene Absage im Rahmen. Glück gehabt, kein Fahrzeug von. 
@@ -202,13 +204,13 @@ LEARN MORE
 The response from the recipient enterprise administrator was:
 The user or domain that you are sending to (or from) has a policy that prohibited the mail that you sent. Please contact your domain administrator for further details. For more information, go to https://support.google.com/a/answer/172179
 
-$:> git pull https://github.com/jurgenvorbach/1.curriculum.vitae 
+$:> git pull https://github.com/jurgenvorbach/1.curriculum.vitae <br/>
 Unable to open repository '%s' '.' [-3] - could not find repository at '.'
 
 ### .Google
 
 for better life : let others „don’t be evil“
-* Android
+* Android & googlePlay-free , MTK—Chip
 * eBay + PayPal Käuferschutz
 * Gmail.com / https://mail.google.com
   
