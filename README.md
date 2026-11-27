@@ -211,13 +211,18 @@ Unable to open repository '%s' '.' [-3] - could not find repository at '.'
 
 for better life : let others „don’t be evil“
 * Android & googlePlay-free , MTK—Chip
-* 
+* * Nura
+  * * Nura (formerly postmarketOS) extends the free and open source operating system Alpine Linux to run on smartphones and other mobile devices. Alpine is a security-oriented, light-weight Linux distribution based on musl libc and BusyBox.
+* * CalyxOS
+  * * Everyone needs a phone. Not everyone wants governments and corporations tracking their every move and spying on their communications. CalyxOS lets you have your cake and eat it too, with "Privacy by Design".
 * * LineageOS
   * * Free and open-source Android-based operating system for smartphones and tablets, designed to enable deep customization, enhanced privacy controls, regular security updates, and broad device compatibility without default proprietary Google services.
   * /e/OS/
   * * /e/ is a fork of LineageOS that aims to be completely free of everything Google. Not only that, but there are a number of goals the developer has in mind for /e/ that more people feel are vital to a mobile operating system.
   * GrapheneOS
   * * GrapheneOS is a privacy and security focused mobile OS with Android app compatibility developed as a non-profit open source project. It's focused on the research and development of privacy and security technology including substantial improvements to sandboxing, exploit...
+  *  x
+    * Ubuntu Touch is the Ubuntu operating system for mobile phones originally created by Canonical and now developed by the UBports Community.
 
 
 * eBay + PayPal Käuferschutz
