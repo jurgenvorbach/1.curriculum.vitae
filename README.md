@@ -221,8 +221,15 @@ for better life : let others „don’t be evil“
   * * /e/ is a fork of LineageOS that aims to be completely free of everything Google. Not only that, but there are a number of goals the developer has in mind for /e/ that more people feel are vital to a mobile operating system.
   * GrapheneOS
   * * GrapheneOS is a privacy and security focused mobile OS with Android app compatibility developed as a non-profit open source project. It's focused on the research and development of privacy and security technology including substantial improvements to sandboxing, exploit...
-  *  x
-    * Ubuntu Touch is the Ubuntu operating system for mobile phones originally created by Canonical and now developed by the UBports Community.
+  *  Ubuntu Touch 
+  * *  is the Ubuntu operating system for mobile phones originally created by Canonical and now developed by the UBports Community.
+  * Plasma Mobile
+  * *  turns your phone into a fully open hacking device, just like a PC. You can join us to start building new mobile experiences now.
+  * Replicant
+  * *  is a fully free Android distribution running on several devices, a free software mobile operating system putting the emphasis on freedom and privacy/security. It is based on LineageOS and replaces or avoids every proprietary component of the system, such as user-space...
+  *  Mobian
+  *  * is a project to port the Debian Linux distribution running the mainline Linux kernel to smartphones and tablets.
+  
 
 
 * eBay + PayPal Käuferschutz
